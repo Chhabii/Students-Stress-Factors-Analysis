@@ -46,5 +46,9 @@ The analysis code can be found in the [`Notebook`](https://github.com/Chhabii/St
 * Investigate the effectiveness of specific interventions for stress reduction.
 * Analyze data from diverse student populations.
 
+### Important Papers
+* [MANUAL OF STUDENT STRESS INVENTORY (SSI) Development, Validity And Reliability of Student Stress Inventory (SSI)](https://www.researchgate.net/publication/316662054_MANUAL_OF_STUDENT_STRESS_INVENTORY_SSI_Development_Validity_And_Reliability_of_Student_Stress_Inventory_SSI)
+* [Evaluation of the Student Life-stress Inventory-Revised](https://www.researchgate.net/publication/286926169_Evaluation_of_the_Student_Life-stress_Inventory-Revised)
+
 We hope this analysis provides valuable insights into student stress and motivates further research in this crucial area.
 
